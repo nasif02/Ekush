@@ -21,9 +21,9 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation project(':ekush')
+    //implementation project(':ekush')
 
-    //implementation 'com.github.nasif02:ekush:1.1'
+    //implementation 'com.github.nasif02:ekush:1.2'
 
     //android support lib
     implementation 'com.android.support:appcompat-v7:27.1.1'
