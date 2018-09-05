@@ -23,7 +23,7 @@ dependencies {
 
     //implementation project(':ekush')
 
-    //implementation 'com.github.nasif02:ekush:1.2'
+    //implementation 'com.github.nasif02:ekush:1.3'
 
     //android support lib
     implementation 'com.android.support:appcompat-v7:27.1.1'
