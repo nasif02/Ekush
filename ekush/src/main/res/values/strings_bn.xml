@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- All Bangla app -->
+
+    <string name="bn_got_it">বুঝতে পেরেছি</string>
+    <string name="bn_ok">ওকে</string>
+    <string name="bn_alert">জেনে রাখুন</string>
+    <string name="bn_on">চালু</string>
+    <string name="bn_off">বন্ধ</string>
+    <string name="bn_que_want">আপনি কি করতে চান?</string>
+    <string name="bn_settings">সেটিংস্‌</string>
+    <string name="bn_version">ভার্সন</string>
+    <string name="bn_share">‎শেয়ার</string>
+    <string name="bn_tell_a_friend">বন্ধুকে বলুন</string>
+    <string name="bn_rate">রেট করুন</string>
+    <string name="bn_feedback">ফিডব্যাক</string>
+    <string name="bn_about_us">আমাদের সম্পর্কে</string>
+    <string name="bn_about">এবাউট</string>
+    <string name="bn_more_apps">ফ্রী অ্যাপ্লিকেশান</string>
+    <string name="bn_yes">হ্যাঁ</string>
+    <string name="bn_no">না</string>
+    <string name="bn_customaization">কাস্টোমাইজেশন</string>
+    <string name="bn_profile">আপনার প্রোফাইল</string>
+    <string name="bn_hot_key">হট কী</string>
+    <string name="bn_shake">ঝাঁকি</string>
+    <string name="bn_shake_mode">ঝাঁকি মোড</string>
+    <string name="bn_support">সাপোর্ট</string>
+    <string name="bn_support1">সাপোর্ট</string>
+    <string name="bn_favourite">প্রিয়</string>
+    <string name="bn_favourite_sms">প্রিয় এসএমএস</string>
+    <string name="bn_favourite_jokes">প্রিয় কৌতুক</string>
+    <string name="bn_favourite_rhyme">প্রিয় ছড়া</string>
+    <string name="bn_favourite_poem">প্রিয় কবিতা</string>
+    <string name="bn_favourite_story">প্রিয় গল্প</string>
+    <string name="bn_app_store">অ্যাপ স্টোর</string>
+    <string name="bn_bangla_jokes">বাংলা জোকস</string>
+    <string name="bn_bangla_sms">বাংলা এসএমএস</string>
+    <string name="bn_english_jokes">ইংরেজি জোকস</string>
+    <string name="bn_english_sms">ইংরেজি এসএমএস</string>
+    <string name="bn_banglish_jokes">বাংলিশ জোকস</string>
+    <string name="bn_banglish_sms">বাংলিশ এসএমএস</string>
+    <string name="bn_kiss_sms">কিসস এসএমএস</string>
+
+    <string name="bn_bangla">বাংলা</string>
+    <string name="bn_banglish">বাংলিশ</string>
+    <string name="bn_english">ইংরেজি</string>
+
+    <string name="bn_easy">সহজ</string>
+    <string name="bn_medium">মধ্যম</string>
+    <string name="bn_hard">কঠিন</string>
+    <string name="bn_extreme">এক্সট্রিম</string>
+    <string name="bn_profile_sum">প্রোফাইল আপডেট করতে এখানে ক্লিক করুন</string>
+    <string name="bn_hot_key_sum_on">পাওয়ার বাটনটি ৩-৪ বার চাপুন </string>
+    <string name="bn_shake_sum_on">অ্যাপটি ওপেন করতে মোবাইলটি ঝাঁকি দিন</string>
+    <string name="bn_share_sum">অ্যাপটি বন্ধুদের সাথে শেয়ার করুন</string>
+
+    <string name="bn_help_hotkey">তারাতারি অ্যাপটি ওপেন করতে হট কী সার্ভিসটি চালু করে পাওয়ার বাটনটি ৩-৪ বার চাপুন।</string>
+    <string name="bn_help_shake">ঝাঁকির মাদ্ধমে অ্যাপটি ওপেন করতে ঝাঁকি সার্ভিসটি চালু করে মোবাইলটি ঝাঁকি দিন।</string>
+
+
+    <string name="bn_gps_settings">লোকেশন সেটিংস্‌</string>
+    <string name="bn_gps_settings_msg">আপনার মোবাইলে লোকেশন সার্ভিসটি অন করা নেই।আপনি কি লোকেশন সার্ভিসটি অন করতে চান?</string>
+    <string name="bn_tuto_hotkey">ছবি তুলতে বাটনটি একবার চাপুন আর ভিডিও রেকর্ড করতে বাটনটি কিছুক্ষণ চেপে ধরে রাখুন।</string>
+    <string name="bn_tuto_helpline">আপনার প্রয়োজনে যেকোনো সময় কল দিন আমাদের হেল্পলাইনে।</string>
+    <string name="bn_tuto_more">বিস্তারিত জানতে এই বাটনটি চাপুন।</string>
+    <string name="bn_det_sotorko">আপনি কোন নির্যাতনের ঘটনার সম্মুখীন হলে সাথে সাথে অ্যাপটি অপেন করে “সতর্ক করুন” বাটন টি চাপলে তা ভিডিও অথবা স্থির চিত্র ধারণ করে সরাসরি আমাদের সার্ভারে তথ্য পাঠিয়ে দিবে। একই সাথে দিন, সময় এবং আপনার অবস্থান এর তথ্য আমাদের কাছে চলে আসবে। এতে করে পরবর্তীতে অপরাধীকে প্রমাণসহ সনাক্ত করা যাবে এবং উপযুক্ত ব্যবস্থা নেওয়া যাবে । ছবি তুলতে বাটনটি একবার চাপুন আর ভিডিও রেকর্ড করতে বাটনটি কিছুক্ষণ চেপে ধরে রাখুন।</string>
+    <string name="bn_det_widget">ফোনের হোমপেজে আমাদের অ্যাপের উইজেটটি ব্যবহার করে অনেক দ্রুততার সাথে ছবি তুলতে বা ভিডিও রেকর্ড করতে পারবেন। আপনি আপনার ফোনের উইজেট অপশন থেকে উইজেট টি অ্যাড করে নিতে পারেন।</string>
+    <string name="bn_det_hotkey">আপনার ফোনের পাওয়ার বাটন একসাথে পরপর ৩-৪ বার চেপে অ্যাপটি চালু করতে পারবেন। এর জন্য অবশ্যই হট কী সার্ভিসটি চালু করা থাকতে হবে।সেটিংস্‌ অপশন এ গিয়ে আপনি সার্ভিসটি চালু/বন্ধ করতে পারবেন।</string>
+    <string name="bn_det_shake">ফোনকে ঝাঁকি দেয়ার মাধ্যমেও অ্যাপে যাওয়া যাবে। এর জন্য অবশ্যই সার্ভিসটি চালু করা থাকতে হবে।সেটিংস্‌ অপশন এ গিয়ে আপনি সার্ভিসটি চালু/বন্ধ করতে পারবেন। ঝাঁকির তীব্রতা নির্ধারণের কয়েকটি মোড আছে। সহজ, মধ্যম, কঠিন ও এক্সট্রিম। আপনার পছন্দ অনুযায়ী সেটিংস্‌ অপশন থেকে যেকোনো একটি বেছে নিন।</string>
+    <string name="bn_det_"></string>
+
+
+
+
+
+
+    <!-- bangla litereture app -->
+    <string name="bn_poem">কবিতা</string>
+    <string name="bn_rhyme">ছড়া</string>
+    <string name="bn_liric">গানের কথা</string>
+    <string name="bn_nazrul_giti">নজরুলগীতি</string>
+    <string name="bn_gazal">গজল</string>
+    <string name="bn_quote">বাণী</string>
+    <string name="bn_life_story">জীবনী</string>
+    <string name="bn_literature">সাহিত্যকর্ম</string>
+    <string name="bn_archive_nazrul_giti">নজরুলগীতি সংকলন</string>
+    
+    <!-- bangla islamic app -->
+    <string name="bn_allah">আল্লাহ</string>
+    <string name="bn_islam">ইসলাম</string>
+    <string name="bn_islamic">ইসলামিক</string>
+    <string name="bn_"></string>
+
+    <!-- bangla quiz app -->
+    <string name="bn_quiz">কুইজ</string>
+    <string name="bn_score">স্কোর</string>
+    <string name="bn_highes_score">সর্বোচ্চ স্কোর</string>
+    <string name="bn_play">খেল</string>
+    <string name="bn_submit">সাবমিট</string>
+    <string name="bn_reset_score_warning">আপনি কি সত্যিই স্কোর গুলো মুছে ফেলতে চান?</string>
+    <string name="bn_reset_score">স্কোর মুছুন</string>
+    <string name="bn_start">শুরু করুন</string>
+    <string name="bn_cancell">বাদ দিন</string>
+    <string name="bn_que_no">প্রশ্ন নং</string>
+    <string name="bn_quit_quiz_warning">আপনি কি সত্যিই কুইজ থেকে বের হতে চান?</string>
+    <string name="bn_quit_quiz">কুইজ থেকে বের হন</string>
+
+    <!-- bangla 99names app -->
+    <string name="bn_names">নাম সমূহ</string>
+    <string name="bn_name_meaning">নামটির অর্থ নিচের কোনটি ?</string>
+    <string name="bn_b"></string>
+    <string name="bn_c"></string>
+
+
+    <string name="bn_info_title">আপনার প্রোফাইল</string>
+    <string name="bn_info">অনুগ্রহ করে আপনার নাম এবং ফোন নম্বর দিন, যাতে করে বিপদ এর সময় আমরা আপনাকে সাহায্য করতে পারি।</string>
+    <string name="bn_know_more_jana">অ্যাপটি সম্বন্ধে বিস্তারিত জানার জন্য ‘আরও জানুন’ বাটনটি চাপুন।</string>
+
+    <string name="bn_instruction">ব্যবহারবিধি</string>
+    <string name="bn_right">অধিকার</string>
+    <string name="bn_reset_all_sum">অ্যাপটি প্রাথমিক অবস্থায় ফিরিয়ে নিতে এখানে ক্লিক করুন</string>
+    <string name="bn_reset_all">রিসেট</string>
+    <string name="bn_help">হেল্প</string>
+    <string name="bn_help_sum">অ্যাপের বিভিন্ন অপশনগুলো জানুন</string>
+    <string name="bn_image_cap_sum">ছবি তুলতে ‘সতর্ক করুন’ বাটনটি একবার চাপুন</string>
+    <string name="bn_video_rec_sum">ভিডিও রেকর্ড করতে ‘সতর্ক করুন’ বাটনটি কিছুক্ষণ চেপে ধরে রাখুন।</string>
+    <string name="bn_widget_sum">ফোনের হোমপেজে আমাদের অ্যাপের উইজেটটি ব্যবহার করে অনেক দ্রুততার সাথে ছবি তুলতে বা ভিডিও রেকর্ড করতে পারবেন। আপনি আপনার ফোনের উইজেট অপশন থেকে উইজেট টি অ্যাড করে নিতে পারেন।</string>
+    <string name="bn_widget">হোমস্ক্রিন উইজেট </string>
+    <string name="bn_image_cap">ছবি তোলা</string>
+    <string name="bn_video_rec">ভিডিও রেকর্ডিং</string>
+    <string name="bn_hot_key_sensivity">হট কী সেন্সিভিটি</string>
+    <string name="bn_basic">বেসিক</string>
+
+
+
+    <!--
+    <string name="bn_"></string>
+    <string name="bn_"></string>
+    <string name="bn_"></string>
+    <string name="bn_"></string>
+
+
+    -->
+
+</resources>
